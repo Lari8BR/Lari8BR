@@ -1,3 +1,6 @@
+<p align="center">
+<img id="test" src="https://emoji.discord.st/emojis/9a468134-ce1e-47cc-9b02-54998d300ef0.gif" />
+</p>
 <h2 align="center">Hey i'm Larissa Silva, Welcome to My Prolfile</h2>
 
 
@@ -6,9 +9,7 @@
 <p align="center">
 <p align="center">Aprenda as regras como um profissional, então poderá quebrá-las como um artista</p>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
+
 </p>
 <br>
 <br>
