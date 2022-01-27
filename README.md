@@ -8,11 +8,11 @@ const ProfileBioWriter = () => {
 	fs.writeFileSync(path.join(__dirname + '/Lari8BR/README.md', JSON.stringfy(`
 		"⚡ Quick bio:":                    "Sou uma desenhista e tenho criatividade em personalização.",
 		"🔭 I’m currently working on":      "https://varsel.com.br",
-		"🌱 I’m currently learning":        "",
-		"👯 I’m looking to collaborate on": "",
-		"🤔 I’m looking for help with":     "",
-		"💬 Ask me about":                  "",
-		"📫 How to reach me:":              "",
+		"🌱 I’m currently learning":        "No começo de Design Gráfico e animação",
+		"👯 I’m looking to collaborate on": "CORTEX Cloud Gaming como CEO",
+		"🤔 I’m looking for help with":     "Javascript",
+		"💬 Ask me about":                  "Me pergunte sobre filmes & series",
+		"📫 How to reach me:":              "larissasilva.varsel@gmail.com",
 	`
 }
 
