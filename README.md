@@ -11,12 +11,7 @@ Sobre mim:
 
 - 💬 Aprenda as regras como um profissional, então poderá quebrá-las como um artista
 
-<h2 align="center">You can reach me at</h2>
-
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=p6abkhsd9uaswhyqe7f4rmsgp&count=3" />
-<p align="center">
-
+<h2 align="center">The end is here</h2>
 </p>
 <br>
 <br>
@@ -34,7 +29,7 @@ Sobre mim:
 A Varsel é uma Agência completa trabalhamos com a maioria das plataformas digitais. Web, Mobile & Desktop. A reunião de talentos especializados em sua área, com características diferentes.
 <br>
 <br>
-<a href="mailto:larissasilva.varsel@gmail.com">
+<a href="mailto:hoyauble@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.99freelas.com.br/user/Varsel">
