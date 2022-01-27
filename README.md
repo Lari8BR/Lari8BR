@@ -2,7 +2,15 @@
 <img id="test" src="https://emoji.discord.st/emojis/9a468134-ce1e-47cc-9b02-54998d300ef0.gif" />
 </p>
 <h2 align="center">Hey i'm Larissa Silva</h2>
+Sobre mim:
 
+- 💼 CEO & Manager at <b>@cortexgg</b> / <b>varsel.com.br</b>
+
+- 💫 No começo de Design Gráfico e animação
+
+- ❤️ Sou uma desenhista e tenho criatividade em personalização.
+
+- 💬 Aprenda as regras como um profissional, então poderá quebrá-las como um artista
 
 <h2 align="center">You can reach me at</h2>
 
