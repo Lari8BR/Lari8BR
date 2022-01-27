@@ -1,25 +1,7 @@
 <h2 align="center">Hey i'm Larissa Silva, Welcome to My Prolfile</h2>
 
-```javascript
-const fs = require('fs');
-const path = require('path');
 
-const ProfileBioWriter = () => {
-	fs.writeFileSync(path.join(__dirname + '/Lari8BR/README.md', JSON.stringfy(`
-		"⚡ Quick bio:":                    "Sou uma desenhista e tenho criatividade em personalização.",
-		"🔭 I’m currently working on":      "https://varsel.com.br",
-		"🌱 I’m currently learning":        "No começo de Design Gráfico e animação",
-		"👯 I’m looking to collaborate on": "CORTEX Cloud Gaming como CEO",
-		"🤔 I’m looking for help with":     "Javascript",
-		"💬 Ask me about":                  "Me pergunte sobre filmes & series",
-		"📫 How to reach me:":              "larissasilva.varsel@gmail.com",
-	`
-}
-
-ProfileBioWriter()
-```
-
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
@@ -54,9 +36,7 @@ ProfileBioWriter()
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
-
 <h2 align="center">My stack :man_technologist:</h2>
-
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
   <a href="https://stackshare.io/anhello/my-personal-stack">
