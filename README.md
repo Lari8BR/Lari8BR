@@ -6,7 +6,7 @@ const path = require('path');
 
 const ProfileBioWriter = () => {
 	fs.writeFileSync(path.join(__dirname + '/Lari8BR/README.md', JSON.stringfy(`
-		"⚡ Quick bio:":                    "",
+		"⚡ Quick bio:":                    "Sou uma desenhista e tenho criatividade em personalização.",
 		"🔭 I’m currently working on":      "https://varsel.com.br",
 		"🌱 I’m currently learning":        "",
 		"👯 I’m looking to collaborate on": "",
