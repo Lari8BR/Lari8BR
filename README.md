@@ -1,7 +1,7 @@
 <p align="center">
 <img id="test" src="https://emoji.discord.st/emojis/9a468134-ce1e-47cc-9b02-54998d300ef0.gif" />
 </p>
-<h2 align="center">Hey i'm Larissa Silva, Welcome to My Prolfile</h2>
+<h2 align="center">Hey i'm Larissa Silva</h2>
 
 
 <h2 align="center">You can reach me at</h2>
