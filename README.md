@@ -1,6 +1,4 @@
-<p align="center">
-<p align="center"><a href="https://anuraghazra.github.io"><img width="90%" src="https://cdn.discordapp.com/attachments/935853586091503616/936217156419461130/Frame_1.png" /></a></p>
-</p>
+
 Sobre mim:
 
 - 💼 CEO & Manager at <b>@cortexgg</b> / <b>varsel.com.br</b>
