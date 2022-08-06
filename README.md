@@ -10,7 +10,7 @@
 
 <div
 <center>
-<img src="https://media.discordapp.net/attachments/735897430452862997/1005438267937796096/60_Sem_Titulo_20220806083202-removebg-preview.png">
+<img <center src="https://media.discordapp.net/attachments/735897430452862997/1005438267937796096/60_Sem_Titulo_20220806083202-removebg-preview.png">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
