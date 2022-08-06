@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F78000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Larissa.;Contate-me+nas+redes+sociais" alt="Typing SVG" /></a>
-
+<center>
+ <div
 - 💼 CEO & Manager at <b>@cortexgg</b>/ <b>varsel.com.br</b>
 
 - 💫 No começo de Design Gráfico e animação
@@ -7,7 +8,7 @@
 - ❤️ Sou uma desenhista e tenho criatividade em personalização.
 
 - 💬 Aprenda as regras como um profissional, então poderá quebrá-las como um artista
-
+</div>
 <div
 <center>
 <img <center src="https://media.discordapp.net/attachments/735897430452862997/1005438267937796096/60_Sem_Titulo_20220806083202-removebg-preview.png">
