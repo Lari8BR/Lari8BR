@@ -24,14 +24,24 @@ src="https://media.discordapp.net/attachments/735897430452862997/100595938857138
 </div>
 <b> <h3> Sobre mim:
 
-- Atualmente estou trabalhando em *[Varsel](https://varsel.com.br/)*
- uma empresa de desenvolvimento de sites e potencial para a sua empresa.
+- Atualmente estou trabalhando em *[Varsel](https://github.com/varselcombr)*
+ uma empresa de desenvolvimento de sites e potencial para a sua empresa que oferecerá a opção mais elaborada e completa dentro da área profissional.
+
+Por outros projetos [Rocket](https://github.com/rocketmta/) e @cortexgg
+
+- Futura Designer/Front-end
+
+- Tenho experiência em desenhar e personalização e pretendo desenvolver back-end, Photoshop e outros
+
+- Aprendi programação com o canal *[Gustavo Guanabara](https://github.com/gustavoguanabara)*
 
 
 <h3> Minhas ferramentas: 
 <p
 <b>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a>  
+<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+
+```Oferecimento Varsel versatilidade na web, mobile & desktop.```
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>
 
