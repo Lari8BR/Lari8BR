@@ -34,7 +34,7 @@ Por outros projetos [Rocket](https://github.com/rocketmta/) e @cortexgg
 - Tenho experiência em desenhar e personalização e pretendo desenvolver back-end, Photoshop e outros
 
 - Aprendi programação com o canal *[Gustavo Guanabara](https://youtube.com/c/CursoemV%C3%ADdeo)*
-
+<img src="https://media.discordapp.net/attachments/735897430452862997/1006082398146003006/unknown.png">
 
 <h3> Minhas ferramentas: 
 <p
