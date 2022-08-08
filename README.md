@@ -1,11 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FFC95D&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Larissa.;Contate-me+nas+redes+sociais" alt="Typing SVG" /></a>
 
 <p align="center">
-&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://youtube.com/c/RocketCommunitymta"><img width="32px" alt="Youtube" title="Youtube" src="https://media.discordapp.net/attachments/735897430452862997/1006031909299703818/64_Sem_Titulo_20220807233819.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://discord.gg/rocketrp" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://media.discordapp.net/attachments/735897430452862997/1006031908297248889/64_Sem_Titulo_20220807234519.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://varsel.com.br/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://media.discordapp.net/attachments/735897430452862997/1006031908041404536/64_Sem_Titulo_20220807234901.png"></a>
-&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.instagram.com/lari8br/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://media.discordapp.net/attachments/735897430452862997/1006031907785556088/64_Sem_Titulo_20220807235111.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://steamcommunity.com/profiles/76561199171543858/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://media.discordapp.net/attachments/735897430452862997/1006031908515364924/64_Sem_Titulo_20220807234300.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://youtube.com/c/RocketCommunitymta"><img width="32px" alt="Youtube" title="Canal Rocket Roleplay" src="https://media.discordapp.net/attachments/735897430452862997/1006031909299703818/64_Sem_Titulo_20220807233819.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://discord.gg/rocketrp" alt="comunidade da Rocket Roleplay"><img width="32px" src="https://media.discordapp.net/attachments/735897430452862997/1006031908297248889/64_Sem_Titulo_20220807234519.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://varsel.com.br/"><img width="32px" alt="Dev.to" title="Faça o seu site com Varsel" src="https://media.discordapp.net/attachments/735897430452862997/1006031908041404536/64_Sem_Titulo_20220807234901.png"></a>
+&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.instagram.com/lari8br/"><img width="32px" alt="Ko-fi" title="Me siga no Instagram" src="https://media.discordapp.net/attachments/735897430452862997/1006031907785556088/64_Sem_Titulo_20220807235111.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://steamcommunity.com/profiles/76561199171543858/"><img width="32px" alt="Meu perfil na Steam" title="Free gifts for you" src="https://media.discordapp.net/attachments/735897430452862997/1006031908515364924/64_Sem_Titulo_20220807234300.png"/></a>
 
 <h1 align="center">Bem vindo ao meu Github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <div
