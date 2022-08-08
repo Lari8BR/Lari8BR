@@ -5,7 +5,7 @@
 &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://discord.gg/rocketrp"><alt="Discord" title="Comunidade Rocket Roleplay"><img width="32px" src="https://media.discordapp.net/attachments/735897430452862997/1006031908297248889/64_Sem_Titulo_20220807234519.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://varsel.com.br/"><img width="32px" alt="Dev.to" title="Faça o seu site com Varsel" src="https://media.discordapp.net/attachments/735897430452862997/1006031908041404536/64_Sem_Titulo_20220807234901.png"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.instagram.com/lari8br/"><img width="32px" alt="Ko-fi" title="Me siga no Instagram" src="https://media.discordapp.net/attachments/735897430452862997/1006031907785556088/64_Sem_Titulo_20220807235111.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://steamcommunity.com/profiles/76561199171543858/"><img width="32px" alt="instagram" title="Me siga no Instagram" src="https://media.discordapp.net/attachments/735897430452862997/1006031908515364924/64_Sem_Titulo_20220807234300.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://steamcommunity.com/profiles/76561199171543858/"><img width="32px" alt="instagram" title="Veja a minha steam" src="https://media.discordapp.net/attachments/735897430452862997/1006031908515364924/64_Sem_Titulo_20220807234300.png"/></a>
 
 <h1 align="center">Bem vindo ao meu Github <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <div
