@@ -12,7 +12,7 @@
 <a href="#"><img width="100%" height="auto" 
 src="https://media.discordapp.net/attachments/735897430452862997/1005959388571385976/1659909652835-removebg-preview.png" height="175px"/></a>
 
-<h1 align="center">Desenvolvendo Front-end developer e UI Designer. 
+<h1 align="center">Front-end developer e UI Designer. 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -24,7 +24,7 @@ src="https://media.discordapp.net/attachments/735897430452862997/100595938857138
 </div>
 <b> <h3> Sobre mim:
 
-- Atualmente estou trabalhando em *[Varsel](https://github.com/varselcombr)*
+- Atualmente estou trabalhando na *[Varsel](https://github.com/varselcombr)*
  uma empresa de desenvolvimento de sites e potencial para a sua empresa que oferecerá a opção mais elaborada e completa dentro da área profissional.
 
 Por outros projetos [Rocket](https://github.com/rocketmta/) e @cortexgg
