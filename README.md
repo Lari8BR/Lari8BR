@@ -42,6 +42,9 @@ Por outros projetos [Rocket](https://github.com/rocketmta/) e @cortexgg
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 
+
+<p align= "center"
+
 ```Oferecimento Varsel versatilidade na web, mobile & desktop.```
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>
 
